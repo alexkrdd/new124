@@ -36,11 +36,11 @@ body {
     background-color: #eeeeee;
 }
 
-.nav__icon {
+.nav__icon span {
     font-size: 15px;
     color: black;
     display: flex;
     font-weight: bold;
-    margin-left: 1px;
+    margin: 3px;
 
 }
